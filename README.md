@@ -62,3 +62,6 @@ _**The canonical and partly opinionated list of books that every software engine
 - Programming Language Pragmatics | [AMZN](https://a.co/d/cMGPFF4)
 - [?] Technology Strategy Patterns -  Eben Hewitt | [ORLY](https://www.oreilly.com/library/view/technology-strategy-patterns/9781492040866/), [AMZN](https://a.co/d/39xmirL)
 - Working Effectively with Legacy Code - Michael C. Feathers | [ORLY](https://learning.oreilly.com/library/view/working-effectively-with/0131177052/)
+
+
+**Thanks to the Contributors:** Alloys Mila, Anthony Nandaa, Brian Muthui, Brain Ogutu, Chrispine Chendo, Deveroux Martin, Dmitry Vostokov, Elton Maiyo, Ishuah Kariuki, Jacob Chencha, Karanja Mutahi, Kemunto Ochwang'i, Miles Obare, Richard Mulandi, Stephen Ng'etich
