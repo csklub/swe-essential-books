@@ -71,3 +71,9 @@ _**The canonical and partly opinionated list of books that every software engine
 
 
 **👏 Thanks to the Contributors:** Alloys Mila, Anthony Nandaa, Brian Muthui, Brain Ogutu, Chrispine Chendo, Deveroux Martin, Dmitry Vostokov, Elton Maiyo, Haim Kilov, Ishuah Kariuki, Jacob Chencha, Karanja Mutahi, Kemunto Ochwang'i, Miles Obare, Robert Simiyu, Richard Mulandi, Stephen Ng'etich
+
+### Other Listings:
+
+Here are other listings around the world, there could be some overlaps with what we have up here.
+
+- https://github.com/cs-books/influential-cs-books
