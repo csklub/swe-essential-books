@@ -54,12 +54,18 @@ _**The canonical and partly opinionated list of books that every software engine
 - Coders at Work - Peter Seibel | [ORLY](https://learning.oreilly.com/library/view/coders-at-work/9781430219484/)
 - Designing Data-Intensive Applications - M. Kleppmann, B. Lange | [ORLY](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781663728289/), [AMZN](https://a.co/d/d2rPlhM)
 - [?] How the Internet Happened: From Netscape to the iPhone - Brian McCullough | [AMZN](https://a.co/d/eEyxpBV)
+- Modern Software Engineering - David Farley | [ORLY](https://learning.oreilly.com/library/view/modern-software-engineering/9780137314942/), [AMZN](https://amzn.eu/d/d2sfkYR)
 - The Mythical Man-Month - Frederick P. Brooks | [ORLY](https://learning.oreilly.com/library/view/mythical-man-month-the/0201835959/)
 - The Pragmatic Programmer - David Thomas, Andrew Hunt | [ORLY](https://learning.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/)
 - Pattern-Oriented Software Architecture Volume 1: A System of Patterns | [ORLY](https://www.oreilly.com/library/view/pattern-oriented-software-architecture/9781118725269/), [AMZN](https://a.co/d/dqzGH7i)
 - A Philosophy of Software Design - John Ousterhout | [ORLY](https://www.amazon.co.uk/Philosophy-Software-Design-2nd/dp/173210221X)
 - The Practice of Programming - Brian Kernighan & Rob Pike | [ORLY](https://www.oreilly.com/library/view/the-practice-of/9780133133448/), [AMZN](https://a.co/d/ghCpj5a)
 - Programming Language Pragmatics | [AMZN](https://a.co/d/cMGPFF4)
+- The Psychology of Computer Programming - Gerald Weinberg | [AMZN](https://amzn.eu/d/bLXE8tG)
+- Righting Software - Löwy Juval | [ORLY](https://learning.oreilly.com/library/view/righting-software/9780136524007/), [AMZN](https://amzn.eu/d/iJWFTCZ)
+- Software Engineering, Vol. 1: Abstraction and Modelling - Dines Bjørner | [AMZN](https://amzn.eu/d/5H6iZZZ)
+- Software Engineering, Vol. 2: Specification of Systems and Languages - Dines Bjørner
+- Software Engineering, Vol. 3: Domains, Requirements and Software Design - Dines Bjørner
 - [?] Technology Strategy Patterns -  Eben Hewitt | [ORLY](https://www.oreilly.com/library/view/technology-strategy-patterns/9781492040866/), [AMZN](https://a.co/d/39xmirL)
 - Working Effectively with Legacy Code - Michael C. Feathers | [ORLY](https://learning.oreilly.com/library/view/working-effectively-with/0131177052/)
 
