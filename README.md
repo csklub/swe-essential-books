@@ -56,7 +56,7 @@ _**The canonical and partly opinionated list of books that every software engine
 - The Art of Doing Science and Engineering: Learning to Learn - Richard Hamming | [AMZN](https://a.co/d/aYfa62x)
 - Coders at Work - Peter Seibel | [ORLY](https://learning.oreilly.com/library/view/coders-at-work/9781430219484/)
 - Designing Data-Intensive Applications - M. Kleppmann, B. Lange | [ORLY](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781663728289/), [AMZN](https://a.co/d/d2rPlhM)
-- [?] How the Internet Happened: From Netscape to the iPhone - Brian McCullough | [AMZN](https://a.co/d/eEyxpBV)
+- Fundamentals of Data Engineering - Joe Reis, Matt Housley | [ORLY](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/) [AMZN](https://www.amazon.com/Fundamentals-Data-Engineering-Robust-Systems/dp/1098108302)- [?] How the Internet Happened: From Netscape to the iPhone - Brian McCullough | [AMZN](https://a.co/d/eEyxpBV)
 - Modern Software Engineering - David Farley | [ORLY](https://learning.oreilly.com/library/view/modern-software-engineering/9780137314942/), [AMZN](https://amzn.eu/d/d2sfkYR)
 - The Mythical Man-Month - Frederick P. Brooks | [ORLY](https://learning.oreilly.com/library/view/mythical-man-month-the/0201835959/)
 - The Pragmatic Programmer - David Thomas, Andrew Hunt | [ORLY](https://learning.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/)
@@ -71,13 +71,8 @@ _**The canonical and partly opinionated list of books that every software engine
 - Software Engineering, Vol. 3: Domains, Requirements and Software Design - Dines Bjørner
 - [?] Technology Strategy Patterns -  Eben Hewitt | [ORLY](https://www.oreilly.com/library/view/technology-strategy-patterns/9781492040866/), [AMZN](https://a.co/d/39xmirL)
 - Working Effectively with Legacy Code - Michael C. Feathers | [ORLY](https://learning.oreilly.com/library/view/working-effectively-with/0131177052/)
-- NoSQL Distilled - Pramod Sadalage, Martin Fowler | [ORLY](https://www.oreilly.com/library/view/nosql-distilled-a/9780133036138/), [AMZN](https://www.amazon.com/NoSQL-Distilled-Emerging-Polyglot-Persistence/dp/0321826620)
-- Fundamentals of Data Engineering - Joe Reis, Matt Housley | [ORLY](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/) [AMZN](https://www.amazon.com/Fundamentals-Data-Engineering-Robust-Systems/dp/1098108302)
-- The Phoenix Project - Gene Kim, Kevin Behr, George Spafford | [ORLY](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
-- Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation - Jez Humble, David Farley | [AMZN](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
 
-
-> **👏 Thanks to the Contributors:** Alloys Mila, Anthony Nandaa, Brian Muthui, Brian Ogutu, Chrispine Chendo, Deveroux Martin, Dmitry Vostokov, Elton Maiyo, Haim Kilov, Ishuah Kariuki, Jacob Chencha, Karanja Mutahi, Kemunto Ochwang'i, Miles Obare, Robert Simiyu, Richard Mulandi, Stephen Ng'etich, Joseph Wachiuri
+> **👏 Thanks to the Contributors:** Alloys Mila, Anthony Nandaa, Brian Muthui, Brian Ogutu, Chrispine Chendo, Deveroux Martin, Dmitry Vostokov, Elton Maiyo, Haim Kilov, Ishuah Kariuki, Jacob Chencha, Joseph Wachiuri, Karanja Mutahi, Kemunto Ochwang'i, Miles Obare, Robert Simiyu, Richard Mulandi, Stephen Ng'etich
 
 ### Other Listings:
 
