@@ -38,7 +38,7 @@ _**The canonical and partly opinionated list of books that every software engine
 - Apprenticeship Patterns - Dave H., Andy T. | [ORLY](https://learning.oreilly.com/library/view/apprenticeship-patterns/9780596806842/)
 - Beautiful Architecture - D. Spinellis and G. Gousios | [ORLY](https://learning.oreilly.com/library/view/beautiful-architecture/9780596155780/)
 - Beautiful Code - Andy Oram and Greg Wilson | [ORLY](https://learning.oreilly.com/library/view/beautiful-code/9780596510046/)
-- Code Complete - Steve McConnell | [ORLY](https://www.oreilly.com/library/view/code-complete-2nd/0735619670/), [AMZN](https://a.co/d/36gd0Kj)
+- Code Complete, 2nd Edition - Steve McConnell | [ORLY](https://www.oreilly.com/library/view/code-complete-2nd/0735619670/) [AMZN](https://www.amazon.com/Code-Complete-2nd-Steve-McConnell/dp/7121033623)
 - Clean Architecture - Robert C. Martin | [ORLY](https://learning.oreilly.com/library/view/clean-architecture-a/9780134494272/)
 - Clean Code - Robert C. Martin | [ORLY](https://learning.oreilly.com/library/view/clean-code-a/9780136083238/)
 - Clean Coder - Robert C. Martin | [ORLY](https://learning.oreilly.com/library/view/-/9780132542913/)
@@ -47,6 +47,9 @@ _**The canonical and partly opinionated list of books that every software engine
 - Refactoring - Martin Fowler | [ORLY](https://learning.oreilly.com/library/view/refactoring-improving-the/9780134757681/)
 - Software Engineering at Google - T. Winters, T. Manshreck, H. Wright | [ORLY](https://learning.oreilly.com/videos/software-engineering-at/1492082791/)
 - Writing Solid Code - Steve Maguire | [ORLY](https://www.amazon.co.uk/Writing-Solid-Code-Development-Philosophies/dp/0578932180/)
+- Fundamentals of Software Architecture - Mark Richards, Neal Ford | [ORLY](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/) [AMZN](https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451)
+- Software Architecture: The Hard Parts - Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani | [ORLY](https://www.oreilly.com/library/view/software-architecture-the/9781492086888/) [AMZN](https://www.amazon.com/_/dp/1492086894)
+- Building Microservices, 2nd Edition - Sam Newman | [ORLY](https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/) [AMZN](https://www.amazon.com/_/dp/1492034029)
 
 ### Uncategorized / Broad
 
@@ -68,9 +71,13 @@ _**The canonical and partly opinionated list of books that every software engine
 - Software Engineering, Vol. 3: Domains, Requirements and Software Design - Dines Bjørner
 - [?] Technology Strategy Patterns -  Eben Hewitt | [ORLY](https://www.oreilly.com/library/view/technology-strategy-patterns/9781492040866/), [AMZN](https://a.co/d/39xmirL)
 - Working Effectively with Legacy Code - Michael C. Feathers | [ORLY](https://learning.oreilly.com/library/view/working-effectively-with/0131177052/)
+- NoSQL Distilled - Pramod Sadalage, Martin Fowler | [ORLY](https://www.oreilly.com/library/view/nosql-distilled-a/9780133036138/), [AMZN](https://www.amazon.com/NoSQL-Distilled-Emerging-Polyglot-Persistence/dp/0321826620)
+- Fundamentals of Data Engineering - Joe Reis, Matt Housley | [ORLY](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/) [AMZN](https://www.amazon.com/Fundamentals-Data-Engineering-Robust-Systems/dp/1098108302)
+- The Phoenix Project - Gene Kim, Kevin Behr, George Spafford | [ORLY](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
+- Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation - Jez Humble, David Farley | [AMZN](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
 
 
-> **👏 Thanks to the Contributors:** Alloys Mila, Anthony Nandaa, Brian Muthui, Brian Ogutu, Chrispine Chendo, Deveroux Martin, Dmitry Vostokov, Elton Maiyo, Haim Kilov, Ishuah Kariuki, Jacob Chencha, Karanja Mutahi, Kemunto Ochwang'i, Miles Obare, Robert Simiyu, Richard Mulandi, Stephen Ng'etich
+> **👏 Thanks to the Contributors:** Alloys Mila, Anthony Nandaa, Brian Muthui, Brian Ogutu, Chrispine Chendo, Deveroux Martin, Dmitry Vostokov, Elton Maiyo, Haim Kilov, Ishuah Kariuki, Jacob Chencha, Karanja Mutahi, Kemunto Ochwang'i, Miles Obare, Robert Simiyu, Richard Mulandi, Stephen Ng'etich, Joseph Wachiuri
 
 ### Other Listings:
 
