@@ -13,6 +13,7 @@ _**The canonical and partly opinionated list of books that every software engine
   - The Art of Computer Programming, Vol 3: Sorting and Searching | [ORLY](https://learning.oreilly.com/library/view/-/9780321635792/)
   - The Art of Computer Programming, Vol 4A: Combinatorial Algorithms | [ORLY](https://learning.oreilly.com/library/view/-/9780133488869/)
   - The Art of Computer Programming, Vol 4B: Combinatorial Algorithms | [ORLY](https://learning.oreilly.com/library/view/-/9780137926862/)
+- Database Internals | [ORLY](https://learning.oreilly.com/library/view/database-internals/9781492040330/), [AMZN](https://www.amazon.com/Database-Internals-Deep-Distributed-Systems/dp/1492040347)
 - Design Patterns - Gang of Four | [ORLY](https://learning.oreilly.com/library/view/-/0201633612/)
 - Grokking Algorithms - Aditya Bhargava, Jed Limke | [ORLY](https://www.oreilly.com/library/view/grokking-algorithms/9781617292231/), [AMZN](https://a.co/d/b7XlWjl)
 - Introduction to Algorithms - CLRS | [AMZN](https://a.co/d/1nuOTSn)
