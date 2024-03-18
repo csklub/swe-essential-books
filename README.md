@@ -46,7 +46,7 @@ _**The canonical and partly opinionated list of books that every software engine
 - Clean Craftsmanship - Robert C. Martin | [ORLY](https://learning.oreilly.com/library/view/clean-craftsmanship-disciplines/9780136915805/)
 - The Mythical Man-Month - Frederick P. Brooks | [ORLY](https://learning.oreilly.com/library/view/mythical-man-month-the/0201835959/)
 - The Practice of Programming - Brian Kernighan & Rob Pike | [ORLY](https://www.oreilly.com/library/view/the-practice-of/9780133133448/), [AMZN](https://a.co/d/ghCpj5a)
-- A Philosophy of Software Design - John Ousterhout | [ORLY](https://www.amazon.co.uk/Philosophy-Software-Design-2nd/dp/173210221X)
+- A Philosophy of Software Design - John Ousterhout | [AMZN](https://www.amazon.co.uk/Philosophy-Software-Design-2nd/dp/173210221X)
 - The Pragmatic Programmer - David Thomas, Andrew Hunt | [ORLY](https://learning.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/)
 - Programming Language Pragmatics | [AMZN](https://a.co/d/cMGPFF4)
 - Programming Pearls - Jon Bentley | [ORLY](https://learning.oreilly.com/library/view/programming-pearls-2nd/9780134498058/)
